@@ -3,4 +3,4 @@
 
 data augumentation=지정맥 data가 적기때문에 brightness, contrast, mixture기법을 통해 data양을 증가시킨다.
 
-U-net_0515= 
+U-net_0515= Y_train 데이터셋 추가
