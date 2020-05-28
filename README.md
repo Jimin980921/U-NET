@@ -6,3 +6,5 @@ data augumentation=지정맥 data가 적기때문에 brightness, contrast, mixtu
 U-net_0515= Y_train 데이터셋 추가
 
 keras_u-net= keras코드 따라함.
+
+U-net0528= x_train, y_train으로 한사이클 돌림. 
