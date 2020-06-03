@@ -9,4 +9,4 @@ keras_u-net= keras코드 따라함.
 
 U-net0528= x_train, y_train으로 한사이클 돌림. 
 
-향후계획:
+향후계획: 데이터 argumentation
