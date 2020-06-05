@@ -9,6 +9,4 @@ keras_u-net= keras코드 따라함.
 
 U-net0528= x_train, y_train으로 한사이클 돌림. =>결과가 좋지않음
 
-U-net0604= 데이터 augumentation 후, 한사이클 돌림. =>결과좋음
-
-data: 데이터 agumentation 완료
+main= 최종코드(data포함)
