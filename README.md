@@ -19,7 +19,7 @@ __코드__
 - 정확도 계산: mean_iou방법, 즉 교집합/합집합으로 계산. 결과 data와 예측 data에서의 전체 정맥중에 정말 정맥인 부분이 얼마나 존재하는지 계산한다. 
 
 ----------------
-data augumentation=지정맥 data가 적기때문에 brightness, contrast, mixture기법을 통해 data양을 증가
+data augumentation= brightness, contrast, mixture기법을 통해 data양을 증가
 
 ----------------
 
