@@ -1,11 +1,12 @@
 __주제__: 생체정보 지정맥을 고화질로 복원
 
 
-main= 지정맥 data, U-net코드
+main= 지정맥 data, 코드
 
-지정맥 data: x_train와 x_test data로 분리하여 저장한다. y_train은 각 지정맥데이터의 정답을 만들기위해 모든 지정맥의 특징점을 수동으로 그린 data를 저장한다.
+__지정맥 data__ : x_train와 x_test data로 분리하여 저장한다. y_train은 각 지정맥데이터의 정답을 만들기위해 모든 지정맥의 특징점을 수동으로 그린 data를 저장한다.
 data의 양을 늘리기위해 정답 정맥을 data agumentation하여 갯수를 증가(y_train증가)시키고, 해당 지정맥원본 또한 같은 양으로 증가(x_train)시킨다.
 
+__코드__
 1. train data의 정답으로 잘 학습시키기위해 특징점을 추출하여 그린 data에 전처리 후, 학습을 진행한다. 
 특징점을 수동으로 그린 데이터에 adaptive threshold함수를 사용하여 특징점을 더 뚜렷하게 만들어주는 전처리 방법을 한 후, 정답(y_train)으로 학습한다. 즉 원본 지정맥(x_train)과 전처리를 통한 뚜렷한 지정맥(y_train)이 쌍을 이루어 학습을 한다.
 
