@@ -16,7 +16,7 @@ __코드__
 <img src="https://user-images.githubusercontent.com/57060127/86255546-32fad300-bbf2-11ea-8f59-d7019f45d9df.jpeg" width="30%">
 
 -__(c)__ (b)를 adaptive threshold함수 사용하여 Y_train으로 사용  
-<img src="https://user-images.githubusercontent.com/57060127/86256395-40648d00-bbf3-11ea-8be9-a1d5763bf7a1.JPG" width="40%">
+<img src="https://user-images.githubusercontent.com/57060127/86256395-40648d00-bbf3-11ea-8be9-a1d5763bf7a1.JPG" width="35%">
 <br>
 
 
