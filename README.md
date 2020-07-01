@@ -18,10 +18,10 @@ __코드__
 
 - 결과: 
  
-원본 |  예측
+__원본__ |  __예측__
 :------------------------------------:|:-------------------------:
 ![](https://user-images.githubusercontent.com/57060127/86254185-6fc5ca80-bbf0-11ea-95c0-b5e69eb57521.jpg)  |  ![](https://user-images.githubusercontent.com/57060127/86254553-efec3000-bbf0-11ea-9bd4-e90a98270d6f.jpg)
-임계값이상 특징점 이진화 |  세선화
+__임계값이상 특징점 이진화__ |  __세선화__
 ![](https://user-images.githubusercontent.com/57060127/86254701-2629af80-bbf1-11ea-8fb1-bbc4c9ad926d.jpg)  |  ![](https://user-images.githubusercontent.com/57060127/86254716-2e81ea80-bbf1-11ea-82ee-72c7d823c870.jpg)
 <br>
 <br>
