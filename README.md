@@ -9,6 +9,7 @@ data의 양을 늘리기위해 정답 정맥을 data agumentation하여 갯수�
 __코드__
 1. train data의 정답으로 잘 학습시키기위해 특징점을 추출하여 그린 data에 전처리 후, 학습을 진행한다. 
 특징점을 수동으로 그린 데이터에 adaptive threshold함수를 사용하여 특징점을 더 뚜렷하게 만들어주는 전처리 방법을 한 후, 정답(y_train)으로 학습한다. 즉 원본 지정맥(x_train)과 전처리를 통한 뚜렷한 지정맥(y_train)이 쌍을 이루어 학습을 한다.
+<br>
 
 
 2. U_net 알고리즘으로 학습하여 x_test 데이터를 예측한다.
@@ -23,9 +24,11 @@ __코드__
 임계값이상 특징점 이진화 |  세선화
 ![](https://user-images.githubusercontent.com/57060127/86254701-2629af80-bbf1-11ea-8fb1-bbc4c9ad926d.jpg)  |  ![](https://user-images.githubusercontent.com/57060127/86254716-2e81ea80-bbf1-11ea-82ee-72c7d823c870.jpg)
 <br>
+<br>
 
 
 - 정확도 계산: mean_iou방법, 즉 교집합/합집합으로 계산. 결과 data와 예측 data에서의 전체 정맥중에 정말 정맥인 부분이 얼마나 존재하는지 계산한다. 
+<br>
 <br>
 
 ----------------
