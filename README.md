@@ -50,7 +50,7 @@ html5up-hyperspace= 웹 구현
 data augumentation= brightness, contrast, mixture기법을 통해 data양을 증가  
 <br>
 
-keras_u-net= keras코드 분석 및 실습
+keras_u-net= keras코드 분석 및 실습  
 참고: https://www.kaggle.com/keegil/keras-u-net-starter-lb-0-277  
 <br>
 
