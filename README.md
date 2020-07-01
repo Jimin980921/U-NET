@@ -10,12 +10,13 @@ __코드__
 1. train data의 정답으로 잘 학습시키기위해 수동으로 정맥을 추출한 지정맥data에 adaptive threshold함수를 사용하여 특징점을 더 뚜렷하게 만들어주는 전처리 방법을 한 후, 정답(y_train)으로 학습한다.   즉 원본 지정맥(x_train)과 전처리를 통한 뚜렷한 지정맥(y_train)이 쌍을 이루어 학습을 한다.
 
 -__(a)__ 원본지정맥  
-<img src="https://user-images.githubusercontent.com/57060127/86255296-e8795680-bbf1-11ea-95c9-d8af8b8534f1.jpg" width="50%">
+<img src="https://user-images.githubusercontent.com/57060127/86255296-e8795680-bbf1-11ea-95c9-d8af8b8534f1.jpg" width="30%">
 
 -__(b)__ (a)를 수동으로 추출한 지정맥  
-<img src="https://user-images.githubusercontent.com/57060127/86255546-32fad300-bbf2-11ea-8f59-d7019f45d9df.jpeg" width="50%">
+<img src="https://user-images.githubusercontent.com/57060127/86255546-32fad300-bbf2-11ea-8f59-d7019f45d9df.jpeg" width="30%">
 
--__(ㅊ)__ (b)를 adaptive threshold함수 사용하여 전처리
+-__(c)__ (b)를 adaptive threshold함수 사용하여 전처리  
+<img src="https://user-images.githubusercontent.com/57060127/86256395-40648d00-bbf3-11ea-8be9-a1d5763bf7a1.JPG" width="30%">
 
 
 2. U_net 알고리즘으로 학습하여 x_test 데이터를 예측한다.
