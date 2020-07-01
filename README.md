@@ -1,7 +1,7 @@
 __주제__: 생체정보 지정맥을 고화질로 복원
 
 
-main= 지정맥 data, 코드
+### main= 지정맥 data, 코드
 
 __지정맥 data__ : x_train와 x_test data로 분리하여 저장한다. y_train은 각 지정맥데이터의 정답을 만들기위해 모든 지정맥의 특징점을 수동으로 그린 data를 저장한다.
 data의 양을 늘리기위해 정답 정맥을 data agumentation하여 갯수를 증가(y_train증가)시키고, 해당 지정맥원본 또한 같은 양으로 증가(x_train)시킨다.
@@ -19,6 +19,7 @@ __코드__
 - 정확도 계산: mean_iou방법, 즉 교집합/합집합으로 계산. 결과 data와 예측 data에서의 전체 정맥중에 정말 정맥인 부분이 얼마나 존재하는지 계산한다. 
 
 ----------------
+
 data augumentation= brightness, contrast, mixture기법을 통해 data양을 증가
 
 ----------------
