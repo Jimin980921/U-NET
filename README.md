@@ -15,8 +15,9 @@ __코드__
 -__(b)__ (a)를 수동으로 추출한 지정맥  
 <img src="https://user-images.githubusercontent.com/57060127/86255546-32fad300-bbf2-11ea-8f59-d7019f45d9df.jpeg" width="30%">
 
--__(c)__ (b)를 adaptive threshold함수 사용하여 전처리  
-<img src="https://user-images.githubusercontent.com/57060127/86256395-40648d00-bbf3-11ea-8be9-a1d5763bf7a1.JPG" width="30%">
+-__(c)__ (b)를 adaptive threshold함수 사용하여 Y_train으로 사용
+<img src="https://user-images.githubusercontent.com/57060127/86256395-40648d00-bbf3-11ea-8be9-a1d5763bf7a1.JPG" width="40%">
+<br>
 
 
 2. U_net 알고리즘으로 학습하여 x_test 데이터를 예측한다.
@@ -27,9 +28,9 @@ __코드__
  
 __원본__ |  __예측__
 :------------------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/57060127/86254185-6fc5ca80-bbf0-11ea-95c0-b5e69eb57521.jpg)  |  ![](https://user-images.githubusercontent.com/57060127/86254553-efec3000-bbf0-11ea-9bd4-e90a98270d6f.jpg)
+![]("https://user-images.githubusercontent.com/57060127/86254185-6fc5ca80-bbf0-11ea-95c0-b5e69eb57521.jpg" width=50%)  |  ![]("https://user-images.githubusercontent.com/57060127/86254553-efec3000-bbf0-11ea-9bd4-e90a98270d6f.jpg" width=50%)
 __임계값이상 특징점 이진화__ |  __세선화__
-![](https://user-images.githubusercontent.com/57060127/86254701-2629af80-bbf1-11ea-8fb1-bbc4c9ad926d.jpg)  |  ![](https://user-images.githubusercontent.com/57060127/86254716-2e81ea80-bbf1-11ea-82ee-72c7d823c870.jpg)
+![]("https://user-images.githubusercontent.com/57060127/86254701-2629af80-bbf1-11ea-8fb1-bbc4c9ad926d.jpg" width=50%)  |  ![]("https://user-images.githubusercontent.com/57060127/86254716-2e81ea80-bbf1-11ea-82ee-72c7d823c870.jpg" width=50%)
 <br>
 <br>
 
