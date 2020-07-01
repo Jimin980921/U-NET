@@ -20,6 +20,9 @@ __코드__
 
 ----------------
 
+html5up-hyperspace= 웹 구현
+
+------------------------
 data augumentation= brightness, contrast, mixture기법을 통해 data양을 증가
 
 ----------------
