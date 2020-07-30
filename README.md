@@ -17,8 +17,9 @@ y_train증가: data의 양을 늘리기위해 특징점을 수동으로 그린 d
 x_train증가: y_train지정맥의 원본지정맥(x_train)을 복사하여 갯수 증가  
 => x_train, y_train (원본, 특징점 추출 지정맥) 1:1로 대칭  
 
--__코드 설명__
-1. train data의 정답으로 잘 학습시키기위해 수동으로 정맥을 추출한 지정맥data에 adaptive threshold함수를 사용하여 특징점을 더 뚜렷하게 만들어주는 전처리 방법을 한 후, 정답(y_train)으로 학습한다.  즉 원본 지정맥(x_train)과 전처리를 통한 뚜렷한 지정맥(y_train)이 쌍을 이루어 학습을 한다.  
+-__개발 순서__
+1. train data를 잘 학습하기 위해 수동으로 정맥을 추출한 지정맥data에 adaptive threshold함수를 사용하여 특징점을 더 뚜렷하게 만들어주는 전처리 방법을 한 후,  
+정답(y_train)으로 학습한다. 즉 원본 지정맥(x_train)과 전처리를 통한 뚜렷한 지정맥(y_train)이 쌍을 이루어 학습을 한다.  
 
 -__(a)__ 원본지정맥  
 <img src="https://user-images.githubusercontent.com/57060127/86255296-e8795680-bbf1-11ea-95c9-d8af8b8534f1.jpg" width="30%">
