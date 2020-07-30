@@ -13,7 +13,7 @@ __U-net__:
 -__지정맥 data__   
 원본 데이터를 x_train와 x_test data로 분리하여 저장한다.  
 모든 지정맥의 특징점을 수동으로 그린 data를 y_train에 저장한다.  
-data의 양을 늘리기위해 특징점을 수동으로 그린 data를 data agumentation하여 갯수를 증가(y_train증가)시키고, 해당 지정맥원본도 같은 양으로 증가(x_train)시킨다.  
+data의 양을 늘리기위해 특징점을 수동으로 그린 data를 data agumentation하여 갯수를 증가(y_train증가)시키고, 해당 지정맥원본도  같은 양으로 증가(x_train)시킨다.  
 
 -__코드 설명__
 1. train data의 정답으로 잘 학습시키기위해 수동으로 정맥을 추출한 지정맥data에 adaptive threshold함수를 사용하여 특징점을 더 뚜렷하게 만들어주는 전처리 방법을 한 후, 정답(y_train)으로 학습한다.  즉 원본 지정맥(x_train)과 전처리를 통한 뚜렷한 지정맥(y_train)이 쌍을 이루어 학습을 한다.  
