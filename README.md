@@ -37,13 +37,18 @@ y_train의 지정맥데이터에 adaptive threshold를 이용하여 특징점 �
 <img src="https://user-images.githubusercontent.com/57060127/86256395-40648d00-bbf3-11ea-8be9-a1d5763bf7a1.JPG" width="30%">
 <br>
 
+__2단계__: x_train, x_test,y_train 정맥데이터 분리  
+<br>
 
-__2단계__: U_net 알고리즘__으로 epoch=45, batch_size=30으로 학습하여 x_test 데이터를 예측
+__3단계__: 딥러닝  
+__U_net 알고리즘__ 으로 epoch=45, batch_size=30으로 학습하여 x_test 데이터를 예측  
+pred에서 threshold ~이상 화솟값만 출력  
 <br>
 <br>
 
-__3단계__: mean_iou(교집합/합집합)를 이용한 정확도 계산  
-결과 data와 예측 data에서의 전체 정맥중에 정말 정맥인 부분이 얼마나 존재하는지 계산
+__4단계__: mean_iou(교집합/합집합) 정확도계산  
+정답 데이터(d)와 pred 데이터(e)에서 __d,e화소값 교집합/d,e화소값 합집합__ 로 정확도계산  
+d,e 사진추가  
 <br>
 
 ---------------------------------------------------------------------------------
