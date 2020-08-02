@@ -30,7 +30,7 @@ y_train의 지정맥데이터에 adaptive threshold를 이용하여 특징점 �
 -__(a)__ 원본지정맥  
 <img src="https://user-images.githubusercontent.com/57060127/86255296-e8795680-bbf1-11ea-95c9-d8af8b8534f1.jpg" width="30%">
 
--__(b)__ (a)를 수동으로 추출한 지정맥  
+-__(b)__ (a)를 수동 추출 지정맥  
 <img src="https://user-images.githubusercontent.com/57060127/86255546-32fad300-bbf2-11ea-8f59-d7019f45d9df.jpeg" width="30%">
 
 -__(c)__ (b)를 adaptive threshold함수 사용하여 Y_train으로 사용  
