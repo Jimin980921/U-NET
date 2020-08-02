@@ -24,7 +24,7 @@ __U-net__:
 
 ## 개발 단계
 __1단계__: 데이터 특징점 강화  
-y_train의 지정맥데이터에 adaptive threshold를 이용하여 특징점 강조 전처리  
+y_train의 지정맥데이터에 adaptive threshold를 이용하여 특징점 강조
 원본 지정맥(x_train)과 특징점 강조 지정맥(y_train) 1:1쌍을 이루어 학습    
 
 -__(a)__ 원본지정맥  
@@ -33,7 +33,7 @@ y_train의 지정맥데이터에 adaptive threshold를 이용하여 특징점 �
 -__(b)__ (a)를 수동 추출 지정맥  
 <img src="https://user-images.githubusercontent.com/57060127/86255546-32fad300-bbf2-11ea-8f59-d7019f45d9df.jpeg" width="30%">
 
--__(c)__ (b)를 adaptive threshold함수 사용하여 Y_train으로 사용  
+-__(c)__ (b)를 adaptive threshold를 이용한 특징점 강조 지정맥
 <img src="https://user-images.githubusercontent.com/57060127/86256395-40648d00-bbf3-11ea-8be9-a1d5763bf7a1.JPG" width="30%">
 <br>
 
