@@ -23,8 +23,8 @@ __U-net__:
 
 
 ## 개발 단계
-__1단계__: y_train의 지정맥데이터에 adaptive threshold를 이용하여 특징점 강조 전처리 (c)
-원본 지정맥(x_train)과 특징점 강조 지정맥(y_train) 1:1쌍을 이루어 학습
+__1단계__: y_train의 지정맥데이터에 adaptive threshold를 이용하여 특징점 강조 전처리 (c)  
+원본 지정맥(x_train)과 특징점 강조 지정맥(y_train) 1:1쌍을 이루어 학습  
 
 -__(a)__ 원본지정맥  
 <img src="https://user-images.githubusercontent.com/57060127/86255296-e8795680-bbf1-11ea-95c9-d8af8b8534f1.jpg" width="30%">
