@@ -1,5 +1,6 @@
 ## 주제  
 U-net알고리즘을 이용한 생체정보 지정맥을 고화질로 복원  
+
 ------------------------------------
 
 ## 사용 알고리즘  
@@ -14,8 +15,10 @@ __U-net__:
 ## 데이터 처리 
 원본 데이터 지정맥데이터 __x_train__ 저장  
 모든 지정맥의 특징점 수동 추출 정맥데이터 __y_train__ 저장  
-사진추가  
+<img src="https://user-images.githubusercontent.com/57060127/86256395-40648d00-bbf3-11ea-8be9-a1d5763bf7a1.JPG" width="30%">  
+<img src="https://user-images.githubusercontent.com/57060127/86256395-40648d00-bbf3-11ea-8be9-a1d5763bf7a1.JPG" width="30%">
 <br>
+
 
 정맥데이터양의 증가를 위해 __data argumentation__ 진행(10배)
 => x_train, y_train (원본, 특징점 추출 지정맥) 1:1로 대칭  
