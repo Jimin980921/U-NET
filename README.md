@@ -10,21 +10,6 @@ __U-net__:
 
 
 
-
---------------------------------------------------------------------
-
-## 데이터 처리  
-원본 데이터 지정맥데이터 __x_train__  
-<img src="https://user-images.githubusercontent.com/57060127/89189697-5347f400-d5db-11ea-8df5-0e9c9926b4c7.jpg" width="20%">  
-<br>
-
-모든 지정맥의 특징점 수동 추출 정맥데이터 __y_train__   
-<img src="https://user-images.githubusercontent.com/57060127/89189737-622ea680-d5db-11ea-8716-0898335d08a3.jpeg" width="20%">  
-<br>
-
-정맥데이터양의 증가를 위해 __data argumentation__ 진행(10배)
-=> x_train, y_train (원본, 특징점 추출 지정맥)  
-
 ---------------------------------------------------------------------
 
 
