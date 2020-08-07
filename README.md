@@ -6,8 +6,9 @@ __U-net알고리즘을 이용한 생체정보 지정맥을 고화질로 복원__
 
 ## 사용 알고리즘  
 
-__U-Net__: Convolutional Networks for Biomedical Image Segmentation
-
+__U-Net__: Convolutional Networks for Biomedical Image Segmentation  
+<img src="https://user-images.githubusercontent.com/57060127/89655110-90c2bf00-d904-11ea-9250-1dae9deea8cb.JPG
+" width="50%">
 
 
 
