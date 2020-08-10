@@ -20,16 +20,14 @@ __U-Net__: Convolutional Networks for Biomedical Image Segmentation
 - __1단계 : 데이터 특징점 강화__  
    - y_train의 지정맥데이터에 adaptive threshold를 이용하여 특징점 강조  
    - 원본 지정맥(x_train)과 특징점 강조 지정맥(y_train) 1:1쌍을 이루어 학습    
-
--__(a)__ 원본지정맥  
-<img src="https://user-images.githubusercontent.com/57060127/86255296-e8795680-bbf1-11ea-95c9-d8af8b8534f1.jpg" width="30%">
-
--__(b)__ (a)를 수동 추출 지정맥  
-<img src="https://user-images.githubusercontent.com/57060127/86255546-32fad300-bbf2-11ea-8f59-d7019f45d9df.jpeg" width="30%">
-
--__(c)__ (b)를 adaptive threshold를 이용한 특징점 강조 지정맥  
-<img src="https://user-images.githubusercontent.com/57060127/86256395-40648d00-bbf3-11ea-8be9-a1d5763bf7a1.JPG" width="30%">
+   
+   
+(a) __원본지정맥__ |  (b) __(a)를 수동추출__ | (c) __(b)를 adaptive threshold를 이용한 특징점 강조__ |
+:------------------------------------:|:-------------------------:|:--------------------------:|
+![](https://user-images.githubusercontent.com/57060127/86255296-e8795680-bbf1-11ea-95c9-d8af8b8534f1.jpg)  |  ![](https://user-images.githubusercontent.com/57060127/86255546-32fad300-bbf2-11ea-8f59-d7019f45d9df.jpeg)  |  ![](https://user-images.githubusercontent.com/57060127/86256395-40648d00-bbf3-11ea-8be9-a1d5763bf7a1.JPG)  
 <br>
+<br>
+
 
 - __2단계 : 정맥데이터 분리__  
    - x_train 1880개, x_test 600개, y_train 1880개  
