@@ -24,11 +24,9 @@ __U-Net__: Convolutional Networks for Biomedical Image Segmentation
    
 (a) __원본지정맥__ |  (b) __(a)를 수동추출__ | (c) __(b)의 특징점 강조(adaptive threshold)__ |
 :------------------------------------:|:-------------------------:|:--------------------------:|
-![](https://user-images.githubusercontent.com/57060127/86255296-e8795680-bbf1-11ea-95c9-d8af8b8534f1.jpg)  |  ![](https://user-images.githubusercontent.com/57060127/93278404-85b25700-f7ff-11ea-9f2c-e74d3903e80b.JPG)  |  ![](https://user-images.githubusercontent.com/57060127/93278404-85b25700-f7ff-11ea-9f2c-e74d3903e80b.JPG)  
+![](https://user-images.githubusercontent.com/57060127/86255296-e8795680-bbf1-11ea-95c9-d8af8b8534f1.jpg)  |  ![](https://user-images.githubusercontent.com/57060127/86255546-32fad300-bbf2-11ea-8f59-d7019f45d9df.jpeg)  |  ![](https://user-images.githubusercontent.com/57060127/93278404-85b25700-f7ff-11ea-9f2c-e74d3903e80b.JPG)  
 <br>
 <br>
-
-https://user-images.githubusercontent.com/57060127/86255546-32fad300-bbf2-11ea-8f59-d7019f45d9df.jpeg
 
 
 - __2단계 : 정맥데이터 분리__  
