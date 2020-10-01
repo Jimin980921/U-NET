@@ -22,9 +22,9 @@ __U-Net__: Convolutional Networks for Biomedical Image Segmentation
    - 원본 지정맥(x_train)과 특징점 강조 지정맥(y_train) 1:1쌍을 이루어 학습    
    
    
-(a) __원본지정맥__ |  (b) __(a)를 수동추출__ | (c) __(b)의 특징점 강조(adaptive threshold)__ |
-:------------------------------------:|:-------------------------:|:--------------------------:|
-![](https://user-images.githubusercontent.com/57060127/86255296-e8795680-bbf1-11ea-95c9-d8af8b8534f1.jpg)  |  ![](https://user-images.githubusercontent.com/57060127/86255546-32fad300-bbf2-11ea-8f59-d7019f45d9df.jpeg)  |  ![](https://user-images.githubusercontent.com/57060127/94456744-9777ff00-01ee-11eb-8c15-85ba16bfe669.JPG)  
+(a) __원본지정맥__ |  (b) __(a)를 수동추출__ |
+:------------------------------------:|:-------------------------:|
+![](https://user-images.githubusercontent.com/57060127/86255296-e8795680-bbf1-11ea-95c9-d8af8b8534f1.jpg)  |  ![](https://user-images.githubusercontent.com/57060127/86255546-32fad300-bbf2-11ea-8f59-d7019f45d9df.jpeg)  |
 <br>
 <br>
 
