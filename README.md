@@ -63,7 +63,5 @@ __U-Net__: Convolutional Networks for Biomedical Image Segmentation
 
 - html5up-hyperspace= 웹 구현  
 - data augumentation= brightness, contrast, mixture기법을 통해 data양을 증가  
-- keras_u-net= keras코드 분석 및 실습  
-참고: https://www.kaggle.com/keegil/keras-u-net-starter-lb-0-277  
-
-- mean_iou 함수화: pred사진과 후처리한(정맥추출)사진의 정확도를 계산하기위해 하드코딩  
+-참고: https://www.kaggle.com/keegil/keras-u-net-starter-lb-0-277  
+- mean_iou 함수화: pred사진과 후처리한(정맥추출)사진의 정확도를 계산  
