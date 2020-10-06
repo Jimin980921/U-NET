@@ -65,3 +65,7 @@ __U-Net__: Convolutional Networks for Biomedical Image Segmentation
 - [data augumentation](https://github.com/Jimin980921/Vein_deblurring/blob/master/data%20augmentation.ipynb)= brightness, contrast, mixture기법을 통해 data양을 증가  
 - 참고: https://www.kaggle.com/keegil/keras-u-net-starter-lb-0-277  
 - [mean_iou 함수화])https://github.com/Jimin980921/Vein_deblurring/blob/master/mean_iou%20%ED%95%A8%EC%88%98%ED%99%94.ipynb): pred사진과 후처리한(정맥추출)사진의 정확도를 계산  
+<br>
+
+[]논문작성예벙
+
