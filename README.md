@@ -28,7 +28,7 @@ __U-Net__: Convolutional Networks for Biomedical Image Segmentation
 <br>
 <br>
 
--__2단계 : 이미지 증가(image agumentation)__  
+- __2단계 : 이미지 증가(image agumentation)__  
 
 - __3단계 : 정맥데이터 분리__  
    - x_train 1880개, x_test 600개, y_train 1880개  
