@@ -26,7 +26,7 @@ __Mean IoU (평가지표)__
 - __1단계 : 데이터 특징점 강화__  
 <p>
   
-> y_train=> raw 지정맥데이터에 adaptive threshold를 이용하여 특징점 강조   
+> raw 지정맥데이터에 adaptive threshold를 이용하여 특징점 강조   
    
    
 (a) __원본지정맥__ |  (b) __(a)를 수동추출__ |
