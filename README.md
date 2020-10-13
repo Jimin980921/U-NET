@@ -19,6 +19,7 @@ __U-Net__: Convolutional Networks for Biomedical Image Segmentation
 ## 개발 단계
 - __1단계 : 데이터 특징점 강화__  
 <p>
+  
 > y_train: raw 지정맥데이터에 adaptive threshold를 이용하여 특징점 강조   
    
    
@@ -30,12 +31,14 @@ __U-Net__: Convolutional Networks for Biomedical Image Segmentation
 
 - __2단계 : 이미지 증가(image agumentation)__  
 <p>
+  
 > Localization을 변화시키지 않는 __brightness, contrast__ 조절을통해 이미지 증가  
 <br>
 
 
 - __3단계 : 딥러닝__
 <p>
+  
 > __U_net 알고리즘__ 으로 epoch=45, batch_size=30으로 학습하여 데이터 예측    
 > x_train 1880개, x_test 600개, y_train 1880개  
 > batch_size=30, epochs=45  
