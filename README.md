@@ -72,7 +72,8 @@ __U-Net__: Convolutional Networks for Biomedical Image Segmentation
 <br>
 <br>
 
-----------------
+
+
 - [main](https://github.com/Jimin980921/Vein_deblurring/blob/master/main/denselayer_based_Unet.ipynb)= 전체코드  
 - [html5up-hyperspace](https://github.com/Jimin980921/Vein_deblurring/tree/master/html5up-hyperspace)= 웹 구현  
 - [data augumentation](https://github.com/Jimin980921/Vein_deblurring/blob/master/data%20augmentation.ipynb)= brightness, contrast, mixture기법을 통해 data양을 증가  
