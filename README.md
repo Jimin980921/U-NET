@@ -28,12 +28,13 @@ __U-Net__: Convolutional Networks for Biomedical Image Segmentation
 <br>
 <br>
 
+-__2단계 : 이미지 증가(image agumentation)__  
 
-- __2단계 : 정맥데이터 분리__  
+- __3단계 : 정맥데이터 분리__  
    - x_train 1880개, x_test 600개, y_train 1880개  
 <br>
 
-- __3단계 : 딥러닝__
+- __4단계 : 딥러닝__
    - __U_net 알고리즘__ 으로 epoch=45, batch_size=30으로 학습하여 데이터 예측  
    - pred에서 예측확률이 0.3이상 부분만 출력  
    
@@ -43,7 +44,7 @@ __U-Net__: Convolutional Networks for Biomedical Image Segmentation
 <br>
 <br>
 
-- __4단계 : 세선화__  
+- __5단계 : 세선화__  
 > 정맥부분만 정확하게 강조함  
 
 <br>
