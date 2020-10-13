@@ -14,7 +14,7 @@ __U-Net__: Convolutional Networks for Biomedical Image Segmentation
   - 활성화함수 relu사용  
   <br>
   
-__평가지표: Mean IoU__  
+__Mean IoU (평가지표)__  
 <img src="https://user-images.githubusercontent.com/57060127/95881039-1a828300-0db3-11eb-8326-f0cb43c91b81.JPG" width="50%">  
 <br>
 
