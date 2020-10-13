@@ -14,7 +14,11 @@ __U-Net__: Convolutional Networks for Biomedical Image Segmentation
   - 활성화함수 relu사용  
   <br>
   
-  
+__평가지표: Mean IoU__  
+<img src="https://user-images.githubusercontent.com/57060127/95881039-1a828300-0db3-11eb-8326-f0cb43c91b81.JPG" width="50%">  
+<br>
+
+
 ---------------------------------------------------------------------
 
 
@@ -34,7 +38,7 @@ __U-Net__: Convolutional Networks for Biomedical Image Segmentation
 - __2단계 : 이미지 증가(image agumentation)__  
 <p>
   
-> Localization을 변화시키지 않는 __brightness, contrast__ 조절을통해 이미지 증가  
+> Localization을 변화시키지 않는 __brightness, contrast__ 조절을 통해 이미지 증가  
 <br>
 <br>
 
