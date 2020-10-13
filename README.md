@@ -12,6 +12,8 @@ __U-Net__: Convolutional Networks for Biomedical Image Segmentation
   - 의약쪽에서 탁원한 효과를 보이는 Segmentation network  
   - classification + Localization  
   - 활성화함수 relu사용  
+  <br>
+  
   
 ---------------------------------------------------------------------
 
@@ -61,7 +63,6 @@ __U-Net__: Convolutional Networks for Biomedical Image Segmentation
 
 
 ## 결과  
-<p>
   
 > 디노이징된 정맥 원본사진에 정맥특징점 강화    
  
