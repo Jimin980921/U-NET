@@ -59,8 +59,9 @@ __U_net 알고리즘__
 ![](https://user-images.githubusercontent.com/57060127/89191583-192c2180-d5de-11ea-8597-22f691eed448.JPG)  |  ![](https://user-images.githubusercontent.com/57060127/89191580-18938b00-d5de-11ea-905a-afdc52f102bb.JPG)  |  ![](https://user-images.githubusercontent.com/57060127/89191572-16313100-d5de-11ea-8b43-ba7522f5e475.JPG)  
 <br>
 <br>
+### 4단계 : Mean IoU  
 
-### 4단계 : 세선화  
+### 5단계 : 세선화  
 <p>
   
 > 정맥부분만 정확하게 강조함  
