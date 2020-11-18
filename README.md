@@ -28,7 +28,7 @@ __U-Net__: Convolutional Networks for Biomedical Image Segmentation
    
 (a) __원본지정맥__ |  (b) __(a)를 수동추출__ |
 :------------------------------------:|:-------------------------:|
-<img src="https://user-images.githubusercontent.com/57060127/86255296-e8795680-bbf1-11ea-95c9-d8af8b8534f1.jpg">  | <img src="https://user-images.githubusercontent.com/57060127/86255546-32fad300-bbf2-11ea-8f59-d7019f45d9df.jpeg">
+<img src="https://user-images.githubusercontent.com/57060127/86255296-e8795680-bbf1-11ea-95c9-d8af8b8534f1.jpg" width="50%">  | <img src="https://user-images.githubusercontent.com/57060127/86255546-32fad300-bbf2-11ea-8f59-d7019f45d9df.jpeg" width="50%">
 <br>
 <br>
 
