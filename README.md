@@ -28,7 +28,7 @@ __U-Net__: Convolutional Networks for Biomedical Image Segmentation
    
 (a) __원본지정맥__ |  (b) __(a)를 수동추출__ |
 :------------------------------------:|:-------------------------:|
-<img src="https://user-images.githubusercontent.com/57060127/86255296-e8795680-bbf1-11ea-95c9-d8af8b8534f1.jpg" height="60" width="152">  | <img src="https://user-images.githubusercontent.com/57060127/86255546-32fad300-bbf2-11ea-8f59-d7019f45d9df.jpeg" height="60" width="152">
+<img src="https://user-images.githubusercontent.com/57060127/86255296-e8795680-bbf1-11ea-95c9-d8af8b8534f1.jpg">  | <img src="https://user-images.githubusercontent.com/57060127/86255546-32fad300-bbf2-11ea-8f59-d7019f45d9df.jpeg">
 <br>
 <br>
 
@@ -51,7 +51,7 @@ __U_net 알고리즘__
    
 (a) __x_train__ |  (b) __y_train__ | 
 :------------------------------------:|:-------------------------:|
-<img src="https://user-images.githubusercontent.com/57060127/89191583-192c2180-d5de-11ea-8597-22f691eed448.JPG" width="60%">  | <img src="https://user-images.githubusercontent.com/57060127/89191580-18938b00-d5de-11ea-905a-afdc52f102bb.JPG" width="60%"> 
+<img src="https://user-images.githubusercontent.com/57060127/89191583-192c2180-d5de-11ea-8597-22f691eed448.JPG">  | <img src="https://user-images.githubusercontent.com/57060127/89191580-18938b00-d5de-11ea-905a-afdc52f102bb.JPG"> 
 
 <br>
 <br>
