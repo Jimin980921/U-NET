@@ -5,7 +5,7 @@ __U-net을 이용한 손가락 정맥영상 품질 향상__
 
 ------------------------------------
 
-## 사용 알고리즘  
+## 알고리즘  
 
 __U-Net__: Convolutional Networks for Biomedical Image Segmentation  
 <img src="https://user-images.githubusercontent.com/57060127/89655110-90c2bf00-d904-11ea-9250-1dae9deea8cb.JPG" width="50%">  
