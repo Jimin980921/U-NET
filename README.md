@@ -41,7 +41,7 @@ __U-Net__: Convolutional Networks for Biomedical Image Segmentation
   
 __U_net 알고리즘__  
 > x_train 1880개, x_test 600개, y_train 1880개  
-> batch_size=30, epochs=45  
+> optimizer=Adam, learning_rate=0.001, batch_size=30, epochs=45   
 > pred에서 예측확률이 0.3이상 부분만 출력    
    
 (a) __x_train__ |  (b) __y_train__ | 
