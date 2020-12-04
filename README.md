@@ -1,7 +1,7 @@
 ## 주제 : U-net을 이용한 손가락 정맥영상 품질 향상  
 
 ## 알고리즘  
-### 개발환경: python3, tensorflow 1.14.0, keras 2.3.1  
+__개발환경: python3, tensorflow 1.14.0, keras 2.3.1__    
 __U-Net__: Convolutional Networks for Biomedical Image Segmentation  
 <img src="https://user-images.githubusercontent.com/57060127/89655110-90c2bf00-d904-11ea-9250-1dae9deea8cb.JPG" width="50%">  
 * 특징  
