@@ -51,16 +51,13 @@ __U_net 알고리즘__
 <br>
 <br>
 
-### 4단계 : Mean IoU (평가지표)  
-<img src="https://user-images.githubusercontent.com/57060127/95881039-1a828300-0db3-11eb-8326-f0cb43c91b81.JPG" width="50%">  
-<br>
-
-
-### 5단계 : 세선화  
+### 4단계 : 세선화  
 <p>
   
 > Zhang-Suen 알고리즘을 사용하여 정맥부분만 강조  
 <br>
+
+### 5단계 : 분기점 검출  
 
 ---------------------------------------------------------------------------------
 
@@ -84,5 +81,5 @@ __U_net 알고리즘__
 - [mean_iou 함수화](https://github.com/Jimin980921/Vein_deblurring/blob/master/mean_iou%20%ED%95%A8%EC%88%98%ED%99%94.ipynb): pred사진과 후처리한(정맥추출)사진의 정확도를 계산  
 <br>
 
-- [ ] 논문작성예정
+> 논문작성  
 
