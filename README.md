@@ -29,6 +29,8 @@ __U-Net__: Convolutional Networks for Biomedical Image Segmentation
 <p>
   
 > Localization을 변화시키지 않는 __brightness, contrast__ 조절을 통해 이미지 증가  
+<br>
+
 
 ### 3단계 : 딥러닝  
 <p>
