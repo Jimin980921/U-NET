@@ -29,13 +29,10 @@ __U-Net__: Convolutional Networks for Biomedical Image Segmentation
 <p>
   
 > Localization을 변화시키지 않는 __brightness, contrast__ 조절을 통해 이미지 증가  
-<br>
-
-
 ### 3단계 : 딥러닝  
 <p>
   
-__U_net 알고리즘__  
+- __U_net 알고리즘__  
 > x_train 1880개, x_test 600개, y_train 1880개  
 > optimizer=Adam, learning_rate=0.001, batch_size=30, epochs=45   
 > pred에서 예측확률이 0.3이상 부분만 출력    
@@ -45,10 +42,7 @@ __U_net 알고리즘__
 <img src="https://user-images.githubusercontent.com/57060127/89191583-192c2180-d5de-11ea-8597-22f691eed448.JPG" width="40%">  | <img src="https://user-images.githubusercontent.com/57060127/89191580-18938b00-d5de-11ea-905a-afdc52f102bb.JPG" width="40%">  
 
 ### 4단계 : 세선화  
-<p>
-  
 > Zhang-Suen 알고리즘을 사용하여 정맥부분만 강조  
-<br>
 
 ### 5단계 : 분기점 검출  
 
