@@ -42,8 +42,9 @@ __U-Net__: Convolutional Networks for Biomedical Image Segmentation
 :------------------------------------:|:-------------------------:|
 <img src="https://user-images.githubusercontent.com/57060127/89191583-192c2180-d5de-11ea-8597-22f691eed448.JPG" width="40%">  | <img src="https://user-images.githubusercontent.com/57060127/89191580-18938b00-d5de-11ea-905a-afdc52f102bb.JPG" width="40%">  
 <p>
-  
+
 ### 4단계 : 세선화  
+
 > Zhang-Suen 알고리즘을 사용하여 정맥부분만 강조  
 <p>
   
