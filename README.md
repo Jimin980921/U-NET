@@ -23,18 +23,12 @@ __U-Net__: Convolutional Networks for Biomedical Image Segmentation
    
 (a) __원본지정맥__ |  (b) __(a)를 수동추출__ |
 :------------------------------------:|:-------------------------:|
-<img src="https://user-images.githubusercontent.com/57060127/86255296-e8795680-bbf1-11ea-95c9-d8af8b8534f1.jpg">  | <img src="https://user-images.githubusercontent.com/57060127/86255546-32fad300-bbf2-11ea-8f59-d7019f45d9df.jpeg">
-<br>
-<br>
+<img src="https://user-images.githubusercontent.com/57060127/86255296-e8795680-bbf1-11ea-95c9-d8af8b8534f1.jpg">  | <img src="https://user-images.githubusercontent.com/57060127/86255546-32fad300-bbf2-11ea-8f59-d7019f45d9df.jpeg">  
 
 ### 2단계 : 이미지 증가(image agumentation)  
 <p>
   
 > Localization을 변화시키지 않는 __brightness, contrast__ 조절을 통해 이미지 증가  
-<br>
-<br>
-
-
 
 ### 3단계 : 딥러닝  
 <p>
@@ -46,10 +40,7 @@ __U_net 알고리즘__
    
 (a) __x_train__ |  (b) __y_train__ | 
 :------------------------------------:|:-------------------------:|
-<img src="https://user-images.githubusercontent.com/57060127/89191583-192c2180-d5de-11ea-8597-22f691eed448.JPG" width="40%">  | <img src="https://user-images.githubusercontent.com/57060127/89191580-18938b00-d5de-11ea-905a-afdc52f102bb.JPG" width="40%"> 
-
-<br>
-<br>
+<img src="https://user-images.githubusercontent.com/57060127/89191583-192c2180-d5de-11ea-8597-22f691eed448.JPG" width="40%">  | <img src="https://user-images.githubusercontent.com/57060127/89191580-18938b00-d5de-11ea-905a-afdc52f102bb.JPG" width="40%">  
 
 ### 4단계 : 세선화  
 <p>
