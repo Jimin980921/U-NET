@@ -59,10 +59,9 @@ __U-Net__: Convolutional Networks for Biomedical Image Segmentation
  
 (a) __원본__ |  (b) __예측__ | (c) __(b)에서 임계값이상 특징점 이진화__ |  (d) __세선화__
 :------------------------------------:|:-------------------------:|:--------------------------:|:----------------------------:
-![](https://user-images.githubusercontent.com/57060127/86254185-6fc5ca80-bbf0-11ea-95c0-b5e69eb57521.jpg)  |  ![](https://user-images.githubusercontent.com/57060127/86254553-efec3000-bbf0-11ea-9bd4-e90a98270d6f.jpg)  |  ![](https://user-images.githubusercontent.com/57060127/86254701-2629af80-bbf1-11ea-8fb1-bbc4c9ad926d.jpg)  |  ![](https://user-images.githubusercontent.com/57060127/86254716-2e81ea80-bbf1-11ea-82ee-72c7d823c870.jpg)
+![](https://user-images.githubusercontent.com/57060127/86254185-6fc5ca80-bbf0-11ea-95c0-b5e69eb57521.jpg)  |  ![](https://user-images.githubusercontent.com/57060127/86254553-efec3000-bbf0-11ea-9bd4-e90a98270d6f.jpg)  |  ![](https://user-images.githubusercontent.com/57060127/86254701-2629af80-bbf1-11ea-8fb1-bbc4c9ad926d.jpg)  |  ![](https://user-images.githubusercontent.com/57060127/86254716-2e81ea80-bbf1-11ea-82ee-72c7d823c870.jpg)  
+> [논문](https://github.com/Jimin980921/Vein_deblurring/blob/master/Finger%20vein%20image%20enhancement%20using%20U-Net.pdf)  
 <br>
-<br>
-
 
 
 - [main](https://github.com/Jimin980921/Vein_deblurring/blob/master/main/denselayer_based_Unet.ipynb)= 전체코드  
@@ -70,8 +69,3 @@ __U-Net__: Convolutional Networks for Biomedical Image Segmentation
 - [html5up-hyperspace](https://github.com/Jimin980921/Vein_deblurring/tree/master/html5up-hyperspace)= 웹 구현  
 - [data augumentation](https://github.com/Jimin980921/Vein_deblurring/blob/master/data%20augmentation.ipynb)= brightness, contrast, mixture기법을 통해 data양을 증가  
 - [mean_iou 함수화](https://github.com/Jimin980921/Vein_deblurring/blob/master/mean_iou%20%ED%95%A8%EC%88%98%ED%99%94.ipynb): pred사진과 후처리한(정맥추출)사진의 정확도를 계산  
-<br>
-
-
--  [x] 논문작성  
-
