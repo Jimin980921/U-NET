@@ -60,7 +60,6 @@ __U-Net__: Convolutional Networks for Biomedical Image Segmentation
 (a) __원본__ |  (b) __예측__ | (c) __(b)에서 임계값이상 특징점 이진화__ |  (d) __세선화__
 :------------------------------------:|:-------------------------:|:--------------------------:|:----------------------------:
 ![](https://user-images.githubusercontent.com/57060127/86254185-6fc5ca80-bbf0-11ea-95c0-b5e69eb57521.jpg)  |  ![](https://user-images.githubusercontent.com/57060127/86254553-efec3000-bbf0-11ea-9bd4-e90a98270d6f.jpg)  |  ![](https://user-images.githubusercontent.com/57060127/86254701-2629af80-bbf1-11ea-8fb1-bbc4c9ad926d.jpg)  |  ![](https://user-images.githubusercontent.com/57060127/86254716-2e81ea80-bbf1-11ea-82ee-72c7d823c870.jpg)  
-> __[논문](https://github.com/Jimin980921/Vein_deblurring/blob/master/Finger%20vein%20image%20enhancement%20using%20U-Net.pdf)__ 작성      
 <br>
 
 
