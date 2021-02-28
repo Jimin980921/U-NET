@@ -48,8 +48,6 @@ __U-Net__: Convolutional Networks for Biomedical Image Segmentation
 > Zhang-Suen 알고리즘을 사용하여 정맥부분만 강조  
 <p>
   
-### 5단계 : 분기점 검출  
-
 ---------------------------------------------------------------------------------
 
 
