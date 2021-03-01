@@ -55,10 +55,7 @@ __U-Net__: Convolutional Networks for Biomedical Image Segmentation
 > 향후 분기점검출 추가+ 논문작성 예정  
 <br>
 
-
-
-- [main](https://github.com/Jimin980921/Vein_deblurring/blob/master/main/denselayer_based_Unet.ipynb)= 전체코드  
-참고: https://www.kaggle.com/keegil/keras-u-net-starter-lb-0-277  
+코드 참고: https://www.kaggle.com/keegil/keras-u-net-starter-lb-0-277   
 - [html5up-hyperspace](https://github.com/Jimin980921/Vein_deblurring/tree/master/html5up-hyperspace)= 웹 구현  
 - [data augumentation](https://github.com/Jimin980921/Vein_deblurring/blob/master/data%20augmentation.ipynb)= brightness, contrast, mixture기법을 통해 data양을 증가  
 - [mean_iou 함수화](https://github.com/Jimin980921/Vein_deblurring/blob/master/mean_iou%20%ED%95%A8%EC%88%98%ED%99%94.ipynb): pred사진과 후처리한(정맥추출)사진의 정확도를 계산  
