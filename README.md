@@ -52,8 +52,9 @@ __U-Net__: Convolutional Networks for Biomedical Image Segmentation
 (a) __원본__ |  (b) __예측__ | (c) __(b)에서 임계값이상 특징점 이진화__ |  (d) __세선화__
 :------------------------------------:|:-------------------------:|:--------------------------:|:----------------------------:
 ![](https://user-images.githubusercontent.com/57060127/86254185-6fc5ca80-bbf0-11ea-95c0-b5e69eb57521.jpg)  |  ![](https://user-images.githubusercontent.com/57060127/86254553-efec3000-bbf0-11ea-9bd4-e90a98270d6f.jpg)  |  ![](https://user-images.githubusercontent.com/57060127/86254701-2629af80-bbf1-11ea-8fb1-bbc4c9ad926d.jpg)  |  ![](https://user-images.githubusercontent.com/57060127/86254716-2e81ea80-bbf1-11ea-82ee-72c7d823c870.jpg)  
-> 향후 분기점검출 추가+ 논문작성 예정  
+> 향후 분기점검출 추가+ 논문작성 예정([발전 ver](https://github.com/Jimin980921/U-net-improved))  
 <br>
+
 
 코드 참고: https://www.kaggle.com/keegil/keras-u-net-starter-lb-0-277   
 - [html5up-hyperspace](https://github.com/Jimin980921/Vein_deblurring/tree/master/html5up-hyperspace)= 웹 구현  
